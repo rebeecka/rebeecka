@@ -2,10 +2,10 @@
 
 ### About me
 <h2>
-- I'm a Computer Science student passionate about technology and problem solving. 
-- I'm committed to learning and growing in the area, exploring different concepts and programming languages. 
-- I'm particularly interested in web development, aiming to create functional and easy-to-use applications.
-- I'm always looking for new challenges and opportunities to expand my knowledge and skills in IT.
+- I'm a Computer Science student passionate about technology and problem solving. </br>
+- I'm committed to learning and growing in the area, exploring different concepts and programming languages. </br>
+- I'm particularly interested in web development, aiming to create functional and easy-to-use applications.</br>
+- I'm always looking for new challenges and opportunities to expand my knowledge and skills in IT.</br>
 </h2>
 ### Social Media
 
