@@ -29,3 +29,5 @@
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeecka&layout=compact)
+![Rebecca's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebeecka&show_icons=true&theme=transparent)
+
