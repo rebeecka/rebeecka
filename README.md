@@ -1,12 +1,11 @@
 # Hey, I'm Rebecca! 👋
 
 ### About me
-<h5>
-- I'm a Computer Science student passionate about technology and problem solving. </br>
-- I'm committed to learning and growing in the area, exploring different concepts and programming languages. </br>
-- I'm particularly interested in web development, aiming to create functional and easy-to-use applications.</br>
-- I'm always looking for new challenges and opportunities to expand my knowledge and skills in IT.</br>
-</h5>
+- I'm a Computer Science student passionate about technology and problem solving. 
+- I'm committed to learning and growing in the area, exploring different concepts and programming languages. 
+- I'm particularly interested in web development, aiming to create functional and easy-to-use applications.
+- I'm always looking for new challenges and opportunities to expand my knowledge and skills in IT.
+
 ### Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-fernandes-8bb159229)
